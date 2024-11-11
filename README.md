@@ -4,4 +4,4 @@ Template for Paybill open-source projects, including our default [license](LICEN
 
 
 ### Next steps
-* [Add a `CONTRIBUTING.md`](https://github.com/paybill-dev/.github/new/master?filename=CONTRIBUTING.md) file to set expectations for how outside collaborators should contribute to this project.
+* [Add a `CONTRIBUTING.md`](https://github.com/paybilldev/.github/new/master?filename=CONTRIBUTING.md) file to set expectations for how outside collaborators should contribute to this project.
